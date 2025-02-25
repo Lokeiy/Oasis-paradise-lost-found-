@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oasis Paradise Found RPG</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Oasis Paradise RPG</h1>
+    <p>Explore Kael’s world through AI-generated storytelling, music, and art.</p>
+
+    <a href="game.html">Enter the RPG</a> | 
+    <a href="https://github.com/YOUR_USERNAME/oasis-paradise-rpg/issues" target="_blank">Report Issues</a>
+
+    <footer>
+        <p>Powered by OpenAI, Loudly, and GitHub Pages</p>
+    </footer>
+</body>
+</html>
